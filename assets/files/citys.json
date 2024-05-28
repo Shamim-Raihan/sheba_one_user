@@ -1,0 +1,420 @@
+{
+  "places": [
+    {
+      "name": "Rajshahi",
+      "areas": []
+    },
+    {
+      "name": "Khulna",
+      "areas": []
+    },
+    {
+      "name": "Barisal",
+      "areas": []
+    },
+    {
+      "name": "Dhaka",
+      "areas": [
+        {
+          "name": "Moghbazar"
+        },
+        {
+          "name": "Gendaria"
+        },
+        {
+          "name": "Sher E Bangla Nagar"
+        },
+        {
+          "name": "Tejgaon"
+        },
+        {
+          "name": "Mohakhali"
+        },
+        {
+          "name": "Ramna"
+        },
+        {
+          "name": "Sadarghat"
+        },
+        {
+          "name": "Banani"
+        },
+        {
+          "name": "Lalmatia"
+        },
+        {
+          "name": "Dhanmondi"
+        },
+        {
+          "name": "Gulshan 2"
+        },
+        {
+          "name": "Nikunja"
+        },
+        {
+          "name": "Kolabagan"
+        },
+        {
+          "name": "Shegunbagicha"
+        },
+        {
+          "name": "Shyamoli"
+        },
+        {
+          "name": "Agargaon"
+        },
+        {
+          "name": "Mohakhali DOHS"
+        },
+        {
+          "name": "Shantibagh"
+        },
+        {
+          "name": "Pallabi"
+        },
+        {
+          "name": "Kuril"
+        },
+        {
+          "name": "Tikatuli"
+        },
+        {
+          "name": "Malibagh"
+        },
+        {
+          "name": "Sutrapur"
+        },
+        {
+          "name": "Baridhara DOHS"
+        },
+        {
+          "name": "Khilgaon"
+        },
+        {
+          "name": "Kotwali"
+        },
+        {
+          "name": "Kamalapur"
+        },
+        {
+          "name": "Eskaton"
+        },
+        {
+          "name": "Gulshan 1"
+        },
+        {
+          "name": "New Eskaton"
+        },
+        {
+          "name": "Nilkhet"
+        },
+        {
+          "name": "New Market"
+        },
+        {
+          "name": "Bangshal"
+        },
+        {
+          "name": "Panthapath"
+        },
+        {
+          "name": "Naya Bazar"
+        },
+        {
+          "name": "Adabor"
+        },
+        {
+          "name": "Green Road"
+        },
+        {
+          "name": "Chawkbazar"
+        },
+        {
+          "name": "Kakrail"
+        },
+        {
+          "name": "Kafrul"
+        },
+        {
+          "name": "Azimpur"
+        },
+        {
+          "name": "Manikdi"
+        },
+        {
+          "name": "Siddheshwari"
+        },
+        {
+          "name": "Bhashantek"
+        },
+        {
+          "name": "Mouchak"
+        },
+        {
+          "name": "Karwan Bazar"
+        },
+        {
+          "name": "Banglamotor"
+        },
+        {
+          "name": "Shahbagh"
+        },
+        {
+          "name": "Motijheel"
+        },
+        {
+          "name": "Mitford"
+        },
+        {
+          "name": "Dayaganj"
+        },
+        {
+          "name": "Lalbagh"
+        },
+        {
+          "name": "Shantinagar"
+        },
+        {
+          "name": "Siddik Bazar"
+        },
+        {
+          "name": "Hatirpool"
+        },
+        {
+          "name": "kataban"
+        },
+        {
+          "name": "Kawran Bazar"
+        },
+        {
+          "name": "Islampur"
+        },
+        {
+          "name": "Paltan"
+        },
+        {
+          "name": "Ray Shaheb Bazar"
+        },
+        {
+          "name": "Dhaka University Campus"
+        },
+        {
+          "name": "Purana Paltan"
+        },
+        {
+          "name": "Gulistan"
+        },
+        {
+          "name": "Hazaribagh"
+        },
+        {
+          "name": "Farmgate"
+        },
+        {
+          "name": "Motijheel C/A"
+        },
+        {
+          "name": "Darussalam"
+        },
+        {
+          "name": "Bakshi Bazar"
+        },
+        {
+          "name": "Jigatola"
+        },
+        {
+          "name": "West Kafrul"
+        },
+        {
+          "name": "Shahjahanpur"
+        },
+        {
+          "name": "Kallyanpur"
+        },
+        {
+          "name": "Kathalbagan"
+        },
+        {
+          "name": "Niketon"
+        },
+        {
+          "name": "Kalabagan"
+        },
+        {
+          "name": "Gopibagh"
+        },
+        {
+          "name": "Banani DOHS"
+        },
+        {
+          "name": "North Badda"
+        },
+        {
+          "name": "South Badda"
+        },
+        {
+          "name": "fokirapool"
+        },
+        {
+          "name": "Elephant Road"
+        },
+        {
+          "name": "Jahurabad"
+        },
+        {
+          "name": "Rajarbagh"
+        },
+        {
+          "name": "Nadda"
+        },
+        {
+          "name": "Meradia"
+        },
+        {
+          "name": "Goran"
+        },
+        {
+          "name": "Madartek"
+        },
+        {
+          "name": "Rayerbazar"
+        },
+        {
+          "name": "Pirerbagh"
+        },
+        {
+          "name": "Shaymoli "
+        },
+        {
+          "name": "Bauniabadh"
+        },
+        {
+          "name": "Rasulbagh"
+        },
+        {
+          "name": "Chankharpul"
+        },
+        {
+          "name": "Duaripara"
+        },
+        {
+          "name": "Armanitola"
+        },
+        {
+          "name": "Babu Bazar"
+        },
+        {
+          "name": "Moulovi Bazar"
+        },
+        {
+          "name": "Tanti Bazar"
+        },
+        {
+          "name": "Shakhari Bazar"
+        },
+        {
+          "name": "Kaltabazar"
+        },
+        {
+          "name": "Jurain"
+        },
+        {
+          "name": "Shamibagh"
+        },
+        {
+          "name": "Syedabad"
+        },
+        {
+          "name": "Uttar Jatrabari"
+        },
+        {
+          "name": "East Dholairpar"
+        },
+        {
+          "name": "Dholairpar"
+        },
+        {
+          "name": "Paribagh"
+        },
+        {
+          "name": "Gabtoli"
+        },
+        {
+          "name": "Purba Rampura"
+        },
+        {
+          "name": "Fulbaria"
+        },
+        {
+          "name": "Neemtoli"
+        },
+        {
+          "name": "Golapbagh"
+        },
+        {
+          "name": "Saidabad"
+        },
+        {
+          "name": "Alu Bazar"
+        },
+        {
+          "name": "Malitola"
+        },
+        {
+          "name": "Noyabazar"
+        },
+        {
+          "name": "Science Laboratory"
+        },
+        {
+          "name": "Hatkhola"
+        },
+        {
+          "name": "Sabujbagh"
+        },
+        {
+          "name": "Polashi"
+        },
+        {
+          "name": "Naya Paltan"
+        },
+        {
+          "name": "Firmgate"
+        },
+        {
+          "name": "Mohakhali C/a"
+        },
+        {
+          "name": "Bara Moghbazar"
+        },
+        {
+          "name": "Bangla Motor"
+        },
+        {
+          "name": "Shamibag"
+        },
+        {
+          "name": "Rupnagar"
+        },
+        {
+          "name": "Shere Bangla Nagar"
+        },
+        {
+          "name": "Mohammdpur"
+        },
+        {
+          "name": "Bhuiyapara"
+        }
+      ]
+    },
+    {
+      "name": "Chittagong",
+      "areas": []
+    },
+    {
+      "name": "Sylhet",
+      "areas": []
+    }
+  ],
+  "status": 200
+}

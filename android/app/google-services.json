@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "668110973429",
+    "project_id": "shebaone-b63d7",
+    "storage_bucket": "shebaone-b63d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668110973429:android:75814c1c11587ed44558bc",
+        "android_client_info": {
+          "package_name": "com.wiztecbd.shebaone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668110973429-mj10se92e76rvleja0mdge5founj4mc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Lh_Fe46s3MK3T8Cm91dyptK-GogCHEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668110973429-mj10se92e76rvleja0mdge5founj4mc3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "668110973429-qpoq6f6lltf36h30tfboj3r5dt53fuka.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wiztecbd.shebaone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668110973429:android:f205c16f1e8c2d2c4558bc",
+        "android_client_info": {
+          "package_name": "com.wiztecbd.shebaone_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668110973429-mj10se92e76rvleja0mdge5founj4mc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Lh_Fe46s3MK3T8Cm91dyptK-GogCHEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668110973429-mj10se92e76rvleja0mdge5founj4mc3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "668110973429-qpoq6f6lltf36h30tfboj3r5dt53fuka.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wiztecbd.shebaone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668110973429:android:c382971ae40d8c984558bc",
+        "android_client_info": {
+          "package_name": "com.wiztecbd.shebaone_doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668110973429-mj10se92e76rvleja0mdge5founj4mc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Lh_Fe46s3MK3T8Cm91dyptK-GogCHEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668110973429-mj10se92e76rvleja0mdge5founj4mc3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "668110973429-qpoq6f6lltf36h30tfboj3r5dt53fuka.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wiztecbd.shebaone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

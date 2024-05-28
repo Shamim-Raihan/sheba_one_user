@@ -1,0 +1,325 @@
+{
+  "places": [
+    {
+      "id": 1,
+      "name": "Bagerhat",
+      "center": "{\"type\": \"Point\", \"coordinates\": [89.73956431663846, 22.36977996795243]}"
+    },
+    {
+      "id": 2,
+      "name": "Bandarban",
+      "center": "{\"type\": \"Point\", \"coordinates\": [92.36382543114016, 21.80711701661792]}"
+    },
+    {
+      "id": 3,
+      "name": "Barguna",
+      "center": "{\"type\": \"Point\", \"coordinates\": [90.1204803599124, 22.14112658246039]}"
+    },
+    {
+      "id": 4,
+      "name": "Barishal",
+      "center": "{\"type\": \"Point\", \"coordinates\": [90.34167233806411, 22.811441437980033]}"
+    },
+    {
+      "id": 5,
+      "name": "Bhola",
+      "center": "{\"type\": \"Point\", \"coordinates\": [90.73334082882695, 22.335697321448272]}"
+    },
+    {
+      "id": 6,
+      "name": "Bogura",
+      "center": "{\"type\": \"Point\", \"coordinates\": [89.37879178145258, 24.824458085035953]}"
+    },
+    {
+      "id": 7,
+      "name": "Brahamanbaria",
+      "center": "{\"type\": \"Point\", \"coordinates\": [91.08348432889008, 23.95299566827369]}"
+    },
+    {
+      "id": 8,
+      "name": "Chandpur",
+      "center": "{\"type\": \"Point\", \"coordinates\": [90.77101383633595, 23.27356444163645]}"
+    },
+    {
+      "id": 9,
+      "name": "Chattogram",
+      "center": "{\"type\": \"Point\", \"coordinates\": [91.83436892134064, 22.44326446730346]}"
+    },
+    {
+      "id": 10,
+      "name": "Chuadanga",
+      "center": "{\"type\": \"Point\", \"coordinates\": [88.84797495226107, 23.608312280085784]}"
+    },
+    {
+      "id": 11,
+      "name": "Cumilla",
+      "center": "{\"type\": \"Point\", \"coordinates\": [91.0339550874315, 23.43687314989592]}"
+    },
+    {
+      "id": 12,
+      "name": "Cox's Bazar",
+      "center": "{\"type\": \"Point\", \"coordinates\": [92.0639254004957, 21.483797928881792]}"
+    },
+    {
+      "id": 13,
+      "name": "Dhaka",
+      "center": "{\"type\": \"Point\", \"coordinates\": [90.2507698426166, 23.786967628854978]}"
+    },
+    {
+      "id": 14,
+      "name": "Dinajpur",
+      "center": "{\"type\": \"Point\", \"coordinates\": [88.7868874043038, 25.62987903516543]}"
+    },
+    {
+      "id": 15,
+      "name": "Faridpur",
+      "center": "{\"type\": \"Point\", \"coordinates\": [89.83887938084195, 23.478941864810665]}"
+    },
+    {
+      "id": 16,
+      "name": "Feni",
+      "center": "{\"type\": \"Point\", \"coordinates\": [91.41243053736645, 22.999431623650345]}"
+    },
+    {
+      "id": 17,
+      "name": "Gaibandha",
+      "center": "{\"type\": \"Point\", \"coordinates\": [89.5058450243878, 25.29872217310673]}"
+    },
+    {
+      "id": 18,
+      "name": "Gazipur",
+      "center": "{\"type\": \"Point\", \"coordinates\": [90.44499792799266, 24.098424285871477]}"
+    },
+    {
+      "id": 19,
+      "name": "Gopalganj",
+      "center": "{\"type\": \"Point\", \"coordinates\": [89.89951162323024, 23.105532796781684]}"
+    },
+    {
+      "id": 20,
+      "name": "Habiganj",
+      "center": "{\"type\": \"Point\", \"coordinates\": [91.43033649778016, 24.36808221436514]}"
+    },
+    {
+      "id": 21,
+      "name": "Jamalpur",
+      "center": "{\"type\": \"Point\", \"coordinates\": [89.8462656588569, 24.97310775193474]}"
+    },
+    {
+      "id": 22,
+      "name": "Jashore",
+      "center": "{\"type\": \"Point\", \"coordinates\": [89.17467566725823, 23.089776132897804]}"
+    },
+    {
+      "id": 23,
+      "name": "Jhalokati",
+      "center": "{\"type\": \"Point\", \"coordinates\": [90.18401258865056, 22.572786585611176]}"
+    },
+    {
+      "id": 24,
+      "name": "Jhenaidah",
+      "center": "{\"type\": \"Point\", \"coordinates\": [89.0874883931934, 23.48921633521956]}"
+    },
+    {
+      "id": 25,
+      "name": "Joypurhat",
+      "center": "{\"type\": \"Point\", \"coordinates\": [89.08291551258377, 25.092768710612766]}"
+    },
+    {
+      "id": 26,
+      "name": "Khagrachhari",
+      "center": "{\"type\": \"Point\", \"coordinates\": [91.95214377069787, 23.16433411105853]}"
+    },
+    {
+      "id": 27,
+      "name": "Khulna",
+      "center": "{\"type\": \"Point\", \"coordinates\": [89.44784775723708, 22.470878221683087]}"
+    },
+    {
+      "id": 28,
+      "name": "Kishoreganj",
+      "center": "{\"type\": \"Point\", \"coordinates\": [90.94240511991008, 24.37618608712701]}"
+    },
+    {
+      "id": 29,
+      "name": "Kurigram",
+      "center": "{\"type\": \"Point\", \"coordinates\": [89.69470330651386, 25.79209267963371]}"
+    },
+    {
+      "id": 30,
+      "name": "Kushtia",
+      "center": "{\"type\": \"Point\", \"coordinates\": [89.02193154328714, 23.922966848930784]}"
+    },
+    {
+      "id": 31,
+      "name": "Lakshmipur",
+      "center": "{\"type\": \"Point\", \"coordinates\": [90.8558288310117, 22.89176883858979]}"
+    },
+    {
+      "id": 32,
+      "name": "Lalmonirhat",
+      "center": "{\"type\": \"Point\", \"coordinates\": [89.2357303948535, 26.06311232783271]}"
+    },
+    {
+      "id": 33,
+      "name": "Madaripur",
+      "center": "{\"type\": \"Point\", \"coordinates\": [90.16509700200056, 23.21804215947773]}"
+    },
+    {
+      "id": 34,
+      "name": "Magura",
+      "center": "{\"type\": \"Point\", \"coordinates\": [89.43371239160105, 23.443179533481786]}"
+    },
+    {
+      "id": 35,
+      "name": "Manikganj",
+      "center": "{\"type\": \"Point\", \"coordinates\": [89.94959574811193, 23.84392573345164]}"
+    },
+    {
+      "id": 36,
+      "name": "Maulvibazar",
+      "center": "{\"type\": \"Point\", \"coordinates\": [91.91537556818552, 24.480421110321934]}"
+    },
+    {
+      "id": 37,
+      "name": "Meherpur",
+      "center": "{\"type\": \"Point\", \"coordinates\": [88.70714249349248, 23.79410155721661]}"
+    },
+    {
+      "id": 38,
+      "name": "Munshiganj",
+      "center": "{\"type\": \"Point\", \"coordinates\": [90.41728519420276, 23.525748249240937]}"
+    },
+    {
+      "id": 39,
+      "name": "Mymensingh",
+      "center": "{\"type\": \"Point\", \"coordinates\": [90.4286088471066, 24.69909421424772]}"
+    },
+    {
+      "id": 40,
+      "name": "Naogaon",
+      "center": "{\"type\": \"Point\", \"coordinates\": [88.75157168481364, 24.89964230955627]}"
+    },
+    {
+      "id": 41,
+      "name": "Narail",
+      "center": "{\"type\": \"Point\", \"coordinates\": [89.58017588001161, 23.13009952402605]}"
+    },
+    {
+      "id": 42,
+      "name": "Narayanganj",
+      "center": "{\"type\": \"Point\", \"coordinates\": [90.57800728885772, 23.72321764563787]}"
+    },
+    {
+      "id": 43,
+      "name": "Narsingdi",
+      "center": "{\"type\": \"Point\", \"coordinates\": [90.77323161781636, 24.002290770515778]}"
+    },
+    {
+      "id": 44,
+      "name": "Natore",
+      "center": "{\"type\": \"Point\", \"coordinates\": [89.08685859538757, 24.380367287528415]}"
+    },
+    {
+      "id": 45,
+      "name": "Nawabganj",
+      "center": "{\"type\": \"Point\", \"coordinates\": [88.26411261626966, 24.715698785557617]}"
+    },
+    {
+      "id": 46,
+      "name": "Netrakona",
+      "center": "{\"type\": \"Point\", \"coordinates\": [90.84462979207235, 24.87076045647337]}"
+    },
+    {
+      "id": 47,
+      "name": "Nilphamari",
+      "center": "{\"type\": \"Point\", \"coordinates\": [88.9295231003783, 26.024655112293303]}"
+    },
+    {
+      "id": 48,
+      "name": "Noakhali",
+      "center": "{\"type\": \"Point\", \"coordinates\": [91.12465745986388, 22.69369687320108]}"
+    },
+    {
+      "id": 49,
+      "name": "Pabna",
+      "center": "{\"type\": \"Point\", \"coordinates\": [89.38533226405286, 24.053171551500437]}"
+    },
+    {
+      "id": 50,
+      "name": "Panchagarh",
+      "center": "{\"type\": \"Point\", \"coordinates\": [88.57545903384667, 26.285129105220744]}"
+    },
+    {
+      "id": 51,
+      "name": "Patuakhali",
+      "center": "{\"type\": \"Point\", \"coordinates\": [90.3989978942548, 22.19085561645556]}"
+    },
+    {
+      "id": 52,
+      "name": "Pirojpur",
+      "center": "{\"type\": \"Point\", \"coordinates\": [89.99318004729442, 22.53379280390795]}"
+    },
+    {
+      "id": 53,
+      "name": "Rajbari",
+      "center": "{\"type\": \"Point\", \"coordinates\": [89.56152666759226, 23.727655125432207]}"
+    },
+    {
+      "id": 54,
+      "name": "Rajshahi",
+      "center": "{\"type\": \"Point\", \"coordinates\": [88.65143988466158, 24.465740255963514]}"
+    },
+    {
+      "id": 55,
+      "name": "Rangamati",
+      "center": "{\"type\": \"Point\", \"coordinates\": [92.27955717836105, 22.82997865578064]}"
+    },
+    {
+      "id": 56,
+      "name": "Rangpur",
+      "center": "{\"type\": \"Point\", \"coordinates\": [89.23681345297265, 25.64975837558473]}"
+    },
+    {
+      "id": 57,
+      "name": "Satkhira",
+      "center": "{\"type\": \"Point\", \"coordinates\": [89.13669129289347, 22.382241376305497]}"
+    },
+    {
+      "id": 58,
+      "name": "Shariatpur",
+      "center": "{\"type\": \"Point\", \"coordinates\": [90.4083773428957, 23.247365088415883]}"
+    },
+    {
+      "id": 59,
+      "name": "Sherpur",
+      "center": "{\"type\": \"Point\", \"coordinates\": [90.0744778760502, 25.082266685632355]}"
+    },
+    {
+      "id": 60,
+      "name": "Sirajganj",
+      "center": "{\"type\": \"Point\", \"coordinates\": [89.59968044221455, 24.39162970328723]}"
+    },
+    {
+      "id": 61,
+      "name": "Sunamganj",
+      "center": "{\"type\": \"Point\", \"coordinates\": [91.34604543207236, 24.93856739843109]}"
+    },
+    {
+      "id": 62,
+      "name": "Sylhet",
+      "center": "{\"type\": \"Point\", \"coordinates\": [91.98733437309151, 24.91921834153912]}"
+    },
+    {
+      "id": 63,
+      "name": "Tangail",
+      "center": "{\"type\": \"Point\", \"coordinates\": [89.99860550188737, 24.35630355245222]}"
+    },
+    {
+      "id": 64,
+      "name": "Thakurgaon",
+      "center": "{\"type\": \"Point\", \"coordinates\": [88.34556890146865, 25.99056011772238]}"
+    }
+  ],
+  "status": 200
+}
